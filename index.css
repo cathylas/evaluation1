@@ -1,3 +1,4 @@
+
 .box{
 
 background-color: black;
@@ -29,15 +30,16 @@ p{
     margin: 707px;
     margin-top: -16px;
     font-size: 11px;
-}  
+    padding-left: 9px;
+}
 
-.button1{
+.background{
 
-    height: 30px;
-    margin-top: -739px;
-    font-size: 11px;
+	background-image: url(background-top1.jpg)no-repeat;
 
 }
+
+	
 
 
 
